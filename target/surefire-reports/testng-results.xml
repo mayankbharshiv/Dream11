@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Assignment" duration-ms="9180" started-at="2019-12-11T05:40:44Z" finished-at="2019-12-11T05:40:53Z">
+    <groups>
+    </groups>
+    <test name="Test Assignment" duration-ms="9180" started-at="2019-12-11T05:40:44Z" finished-at="2019-12-11T05:40:53Z">
+      <class name="com.test.qa.testcases.FlipkartTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="setUp" is-config="true" duration-ms="4983" started-at="2019-12-11T11:10:39Z" finished-at="2019-12-11T11:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="loginPageTitleTest" duration-ms="219" started-at="2019-12-11T11:10:44Z" finished-at="2019-12-11T11:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="enterSearchItem()[pri:2, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="enterSearchItem" duration-ms="515" started-at="2019-12-11T11:10:45Z" finished-at="2019-12-11T11:10:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSearchItem -->
+        <test-method status="PASS" signature="applyFilters()[pri:3, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="applyFilters" duration-ms="5032" started-at="2019-12-11T11:10:45Z" finished-at="2019-12-11T11:10:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyFilters -->
+        <test-method status="PASS" signature="displayResults()[pri:4, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="displayResults" duration-ms="3391" started-at="2019-12-11T11:10:50Z" finished-at="2019-12-11T11:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayResults -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.qa.testcases.FlipkartTest@246ae04d]" name="tearDown" is-config="true" duration-ms="124" started-at="2019-12-11T11:10:53Z" finished-at="2019-12-11T11:10:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.qa.testcases.FlipkartTest -->
+    </test> <!-- Test Assignment -->
+  </suite> <!-- Test Assignment -->
+</testng-results>

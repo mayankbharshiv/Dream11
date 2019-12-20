@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Assignment">
+	<test name="Test Assignment">
+		<classes>
+			<class name="com.test.qa.testcases.FlipkartTest"></class>
+		</classes>
+	</test>
+</suite>
